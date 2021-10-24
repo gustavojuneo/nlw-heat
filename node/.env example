@@ -1,0 +1,6 @@
+# Github Auth
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+
+# JWT Secret
+JWT_SECRET=
